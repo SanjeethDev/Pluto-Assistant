@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Pluto Assistant</string>
+    <string name="first_message">Hello!</string>
+    <string name="second_message">Can you tell me something?</string>
+    <string name="OPEN_WEATHER_MAP_API_KEY">dea577ab8adde14396571a9a375b448c</string>
+</resources>
